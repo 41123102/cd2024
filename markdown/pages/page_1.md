@@ -2,7 +2,7 @@ Title: About
 
 # cmsimde 內容管理系統
 
-倉儲:<a href="https://github.com/41123102/cd2024">https://github.com/41123102/cd2024</a>
+倉儲:<a href="https://github.com/41123102/cd2024/tree/main">https://github.com/41123102/cd2024/tree/main</a>
 
 網站:<a href="https://41123102.github.io/cd2024/">https://41123102.github.io/cd2024/</a>
 
