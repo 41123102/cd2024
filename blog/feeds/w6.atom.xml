@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123102協同產品設計實習 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T06:24:19+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T14:30:00+08:00</published><updated>2024-04-19T06:24:19+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-12:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123102協同產品設計實習 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T06:42:15+08:00</updated><entry><title>2024 Spring 課程W6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T14:30:00+08:00</published><updated>2024-06-07T06:42:15+08:00</updated><author><name>41123102</name></author><id>tag:None,2024-04-12:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -9,12 +9,4 @@
 又出現分支上的錯誤
 git config pull.rebase false後，再git pull
  Git 打開一個文件以等待進行提交訊息。 
- 便解決問題了&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫0412"></category><category term="pelicn"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T14:00:00+08:00</published><updated>2024-04-19T06:24:13+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w5&lt;/h1&gt;
-&lt;p&gt;改版&lt;/p&gt;
-&lt;h1&gt;小組內容&lt;/h1&gt;
-&lt;p&gt;上週已上傳"課程文字影片"
-2b_1 2b_2 內容&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫0329"></category><category term="pelicn"></category></entry></feed>
+ 便解決問題了&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫0412"></category><category term="pelicn"></category></entry></feed>
